@@ -1,9 +1,6 @@
 [
     {
         "Store": 30,
-        "Day": 2,
-        "Month": 4,
-        "Year": 2010,
         "Temperature": 64.12,
         "Fuel_Price": 2.719,
         "CPI": 210.479,
@@ -19,9 +16,6 @@
     },
     {
         "Store": 27,
-        "Day": 2,
-        "Month": 4,
-        "Year": 2010,
         "Temperature": 27.19,
         "Fuel_Price": 3.981,
         "CPI": 135.57,
