@@ -1,0 +1,44 @@
+[
+    {
+        "Gender": 1,
+        "Years at Company": 32,
+        "Work-Life Balance": 1,
+        "Number of Promotions": 1,
+        "Overtime": 2,
+        "Distance from Home": 79,
+        "Number of Dependents": 1,
+        "Job Level": 1,
+        "Remote Work": 1,
+        "Company Reputation": 3.1,
+        "Marital Status_Married": 1,
+        "Marital Status_Single": 0
+    },
+    {
+        "Gender": 1,
+        "Years at Company": 40,
+        "Work-Life Balance": 4,
+        "Number of Promotions": 5,
+        "Overtime": 2,
+        "Distance from Home": 43,
+        "Number of Dependents": 1,
+        "Job Level": 3,
+        "Remote Work": 0,
+        "Company Reputation": 1.62,
+        "Marital Status_Married": 0,
+        "Marital Status_Single": 1
+    },
+    {
+        "Gender": 2,
+        "Years at Company": 37,
+        "Work-Life Balance": 2,
+        "Number of Promotions": 0,
+        "Overtime": 2,
+        "Distance from Home": 27,
+        "Number of Dependents": 0,
+        "Job Level": 4,
+        "Remote Work": 0,
+        "Company Reputation": 4.51,
+        "Marital Status_Married": 0,
+        "Marital Status_Single": 1
+    }
+]
